@@ -6,6 +6,8 @@ This is a simple "USB-C to 3.3V UART" adapter board. It uses the 10-pin CH340K U
 * RTS and CTS connections if required by the user
 * Ultra compact (34 x 14 mm)
 
+To build it, upload the [E-Z UART printed circuit board (PCB) Gerber files](https://github.com/shabaz123/e_z_uart/raw/branch/export-gerbers-ez-uart-rev1.zip) to any PCB manufacturer website.
+
 <img width="100%" align="left" src="uart-board-photo.jpg">
 
 # Circuit Diagram
