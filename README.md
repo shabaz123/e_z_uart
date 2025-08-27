@@ -13,7 +13,7 @@ To build it, upload the [E-Z UART printed circuit board (PCB) Gerber files](http
 # Circuit Diagram
 See the diagram below for the schematic and parts list. 
 
-Click here to download the [PDF version of the E-Z UART schematic](https://github.com/shabaz123/e_z_uart/blob/main/usb-c-uart-schematic-rev1.pdf).
+Click here to download the [PDF version of the E-Z UART schematic](https://github.com/shabaz123/e_z_uart/blob/main/usb-c-uart-schematic-rev1.pdf?raw=true).
 
 <img width="100%" align="left" src="usb-uart-schematic-rev1.jpg">
 
