@@ -13,8 +13,9 @@ See the diagram below for the schematic and parts list.
 <img width="100%" align="left" src="usb-uart-schematic-rev1.jpg">
 
 # Printed Circuit Board (PCB)
-xyz
+Most of the parts fit on the top side. For the smaller resistors and capacitors, either 0603 or 0805 sized parts will fit.
 <img width="100%" align="left" src="ez-usb-uart-render-top.jpg">
 
+A few resistors and a capacitor are on the underside.
 <img width="100%" align="left" src="ez-usb-uart-render-underside.jpg">
 
