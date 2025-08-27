@@ -26,3 +26,7 @@ Most of the parts fit on the top side. For the smaller resistors and capacitors,
 A few resistors and a capacitor are on the underside.
 <img width="100%" align="left" src="ez-usb-uart-render-underside.jpg">
 
+[E-Z UART Gerbers zip file](https://raw.githubusercontent.com/shabaz123/e_z_uart/main/export-gerbers-ez-uart-rev1.zip)
+
+
+
