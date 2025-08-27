@@ -20,13 +20,13 @@ Click here to download the [PDF version of the E-Z UART schematic](https://raw.g
 <img width="100%" align="left" src="usb-uart-schematic-rev1.jpg">
 
 # Printed Circuit Board (PCB)
+[E-Z UART Gerbers zip file](https://raw.githubusercontent.com/shabaz123/e_z_uart/main/export-gerbers-ez-uart-rev1.zip)
+
 Most of the parts fit on the top side. For the smaller resistors and capacitors, either 0603 or 0805 sized parts will fit.
 <img width="100%" align="left" src="ez-usb-uart-render-top.jpg">
 
 A few resistors and a capacitor are on the underside.
 <img width="100%" align="left" src="ez-usb-uart-render-underside.jpg">
 
-[E-Z UART Gerbers zip file](https://raw.githubusercontent.com/shabaz123/e_z_uart/main/export-gerbers-ez-uart-rev1.zip)
-
-
-
+# Using the USB-UART
+On Windows, plug it into the PC, and Device Manager should show a COM port.
